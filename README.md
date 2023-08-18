@@ -15,5 +15,7 @@ After downloading C/C++ extension as recommended " includepath to configurations
 
 Success  Downloaded Gcc, put it in my c folder and went into edit system environment to include Gcc folder in the path. Then In VS code, I added an extension called "code runner"
 
-New error. Identifier "cout" and "endl" is underfined
+New error. Identifiers "cout" and "endl" is underfined
+
+after reloading, cout and endl were recognized, however now when running a coin-flipping program, the second string written in the program is not recognized, but the first string is recognized...
 
