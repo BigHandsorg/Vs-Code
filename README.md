@@ -13,5 +13,7 @@ Specify a compiler path or select a detected compiler path from the drop-down li
 
 After downloading C/C++ extension as recommended " includepath to configurations." I now have vs_bootstrapper on the side, which seems to have 50+ source controls in it and I don't know what they do... I am still unable to run C++ code at this time.
 
+Success  Downloaded Gcc, put it in my c folder and went into edit system environment to include Gcc folder in the path. Then In VS code, I added an extension called "code runner"
 
+New error. Identifier "cout" and "endl" is underfined
 
